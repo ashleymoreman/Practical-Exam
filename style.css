@@ -1,0 +1,13 @@
+* {
+
+font-family: 'Avenir', sans-serif;
+
+}
+
+
+@media screen (max-width: 799px) {
+  header {
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}
